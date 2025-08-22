@@ -42,7 +42,7 @@ export default function FinalScreen({ ...motionProps }) {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.5 }}
                 >
-                    Forever Yours Dimpal              </motion.h2>
+                    Forever Yours Manish              </motion.h2>
 
                 <motion.div
                     className="bg-gray-950/50 backdrop-blur-md border border-pink-500/10 rounded-3xl p-5 md:p-10 shadow-2xl mb-8"
