@@ -42,7 +42,7 @@ export default function FinalScreen({ ...motionProps }) {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.5 }}
                 >
-                    Forever Yours
+                    Forever Yours Dimpal
                 </motion.h2>
 
                 <motion.div
