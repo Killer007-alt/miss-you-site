@@ -9,7 +9,7 @@ export default function FinalScreen({ ...motionProps }) {
     const [isTyping, setIsTyping] = useState(true)
 
     const finalMessage =
-        "Even miles apart, you're all I think about. Every second without you feels incomplete. I miss your smile, your laugh, your voice — everything. You are my peace in this noisy world. No matter the distance, you'll always live in my heart. I can't wait for the day I hold you again. Until then, just know... I miss you more than words can ever say🌙💕"
+        "Even miles apart, you're all I think about. Every second without you feels incomplete. I miss your smile, your laugh, your voice — everything. You are my peace in this noisy world. No matter the distance, you'll always live in my heart. I can't wait for the day I hold you again. Until then, just know... I miss you more than words can ever say Dimpal 💫💕"
 
     useEffect(() => {
         const timer = setTimeout(() => {
@@ -42,8 +42,7 @@ export default function FinalScreen({ ...motionProps }) {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.5 }}
                 >
-                    Forever Yours Dimpal
-                </motion.h2>
+                    Forever Yourssay              </motion.h2>
 
                 <motion.div
                     className="bg-gray-950/50 backdrop-blur-md border border-pink-500/10 rounded-3xl p-5 md:p-10 shadow-2xl mb-8"
